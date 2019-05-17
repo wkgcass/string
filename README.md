@@ -7,6 +7,12 @@ A tool help you manipulate lines in shell.
 > string -v
 ```
 
+## install
+
+```
+/bin/bash <(curl https://raw.githubusercontent.com/wkgcass/string/master/install.sh)
+```
+
 ## how to use
 
 ### read from stdin
